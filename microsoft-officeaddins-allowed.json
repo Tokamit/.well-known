@@ -1,0 +1,7 @@
+{
+    "allowed":
+    [
+        "https://addin.contoso.com:8000/main/js/autorun.js",
+        "https://tokamit.github.io/Office-addins/outlook-smartalert/commands/commands.js"
+    ]
+}
